@@ -1,0 +1,15 @@
+{
+  "name": "wilders",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Gustavo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
