@@ -16,3 +16,6 @@ console.log(
     chalk.greenBright("Kler")
 );
 
+console.log(
+    chalk.yellowBright("Tiago")
+);
